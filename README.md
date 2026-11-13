@@ -3,7 +3,6 @@
 A ROS 2 simulation of the **FANUC CRX-10iA/L** collaborative robot. Plan motions with **MoveIt 2** in **RViz2** and watch the same arm execute them in **Gazebo Sim**.
 
 [Gazebo and RViz Demo]
-Uploading Screencast From 2026-11-13 17-45-45.mp4…
 <br><br>
 
 
