@@ -107,11 +107,11 @@ RViz (MoveIt) ──plan──▶ move_group ──trajectory──▶ ros2_cont
 
 Issues and pull requests are welcome!
 
-## 📄 License
+##  License
 
 See the [LICENSE](LICENSE) file.
 
-## 👤 Author
+##  Author
 
 **Dinesh Kumar**
 GitHub: [@30DineshKumar](https://github.com/30DineshKumar)
