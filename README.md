@@ -9,7 +9,7 @@ A ROS 2 simulation of the **FANUC CRX-10iA/L** collaborative robot. Plan motions
 <img width="1920" height="1080" alt="Screenshot From 2026-11-13 17-28-27" src="https://github.com/user-attachments/assets/65b8816c-2d33-4f96-be41-efc6561442db" />
 
 
-## ✨ Features
+##  Features
 
 -  **FANUC CRX-10iA/L** URDF model with meshes
 -  **Gazebo Sim world** with a ground plane, table and the robot
@@ -85,7 +85,7 @@ Then in RViz:
 1. Select the `crx_arm` planning group in the **MotionPlanning** panel
 2. Drag the interactive marker to set a goal pose
 3. Click **Plan**, then **Plan & Execute**
-4. Watch the robot move in Gazebo 🎉
+4. Watch the robot move in Gazebo 
 
 ##  How It Works
 
